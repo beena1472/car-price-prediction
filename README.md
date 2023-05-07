@@ -8,7 +8,7 @@ Execution
 Testing of the Model.
 Dataset
 
-1. [Creating a new Conda environment]
+1. ## Creating a new Conda environment
 Its always better to implement a project in a new environment as you can know the exact requirements needed for the project to run. When we create a new environmen, we are starting with no pre-installed packages or tools. So to create a new environment in anaconda prompt use the command : conda create -n carprice python=3.6
 
 and now activate and switch to this environment using the command: `conda activate carprice`
