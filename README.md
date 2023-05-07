@@ -14,7 +14,7 @@ Its always better to implement a project in a new environment as you can know th
 and now activate and switch to this environment using the command: `conda activate carprice`
 
 ## 2. Training
-3. Move to the location where you have cloned this repo, and now open the jupyter notebook from this directory. now run every cell in the notebook.
+ Move to the location where you have cloned this repo, and now open the jupyter notebook from this directory. now run every cell in the notebook.
 
 After every cell is done running, we see a new file with ".pkl" extension has been created in the same src folder. This file contains our model. A web interface has been developed using flask and HTML and can be used for prediction.
 
