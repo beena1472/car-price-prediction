@@ -35,7 +35,10 @@ Run the app.py in the anaconda prompt using python3 app.py
 
 
 ## 4.Testing the model
-  !(https://raw.githubusercontent.com/iyashk/Car-Price-Prediction/main/images/img_2.png)
+  
+  
+  
+<img width="1440" alt="img_2" src="https://user-images.githubusercontent.com/60919337/236668707-fc7ce392-6875-4ba2-853f-a28ee850bc61.png">
 
 ## 5.Dataset
 The data we have used in this project was downloaded from Kaggle. It was uploaded from Cardekho.com . The dataset consists of 301 rows and 9 columns with no null values. Column data consist of independent Features. The independent features contain both categorical and numeric values.
